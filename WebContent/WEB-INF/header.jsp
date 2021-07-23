@@ -5,7 +5,7 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8" />
-<link rel="stylesheet" href="style/style.css" />
+<link rel="stylesheet" href="./style/style.css" />
 <title>Mon Blog de Recettes</title>
 </head>
 <body>
