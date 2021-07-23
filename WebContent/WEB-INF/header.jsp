@@ -1,15 +1,22 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="fr">
 <head>
-<title>${titre}</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="style/style.css" rel="stylesheet" type="text/css"/>
+<meta charset="UTF-8" />
+<link rel="stylesheet" href="style/style.css" />
+<title>Mon Blog de Recettes</title>
 </head>
 <body>
-<div id="">
-
+<header id="header">
+<a href="index"><h1 id="titreBlog">Mon Blog de Recettes</h1></a>
+<div style="width:300px;margin:20px auto;">Bienvenue sur mon blog de
+recettes</div>
+<div id="loginBar">
+<div class="login">
+<a class="primaryBtn login" href="inscription">Inscription</a>
 </div>
+</div>
+</header>
+<div id="global">
