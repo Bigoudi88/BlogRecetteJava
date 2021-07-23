@@ -83,7 +83,7 @@ protected void doPost(HttpServletRequest request, HttpServletResponse response) 
 			session.setAttribute("membre", membre);
 			
 			// on redige
-			response.sendRedirect("confirmation");
+			response.sendRedirect("index");
 		}
 		else {
 			

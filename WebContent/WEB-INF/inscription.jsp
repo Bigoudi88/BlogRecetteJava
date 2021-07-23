@@ -14,7 +14,7 @@ class="inputChamp" placeholder="Votre email *" /><br />
 <input id="mdp" name="mdp" type="password"
 class="inputChamp" placeholder="Votre mot de passe *" /><br />
 <br />
-<input type="submit" value="Je 'm'inscris"
+<input type="submit" value="Je m'inscris"
 class="submitBtn" />
 </form>
 </div>
