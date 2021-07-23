@@ -1,4 +1,4 @@
-package fr.blog.services;
+package com.blogrecette.services;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -6,9 +6,9 @@ import java.util.Hashtable;
 import java.util.List;
 import java.util.Map;
 
-import fr.blog.pojos.Ingredient;
-import fr.blog.pojos.Membre;
-import fr.blog.pojos.Recette;
+import com.blogrecette.pojos.Ingredient;
+import com.blogrecette.pojos.Membre;
+import com.blogrecette.pojos.Recette;
 
 
 

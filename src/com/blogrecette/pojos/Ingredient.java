@@ -1,7 +1,7 @@
 /**
  * 
  */
-package fr.blog.pojos;
+package com.blogrecette.pojos;
 
 /**
  * @author Groupe
