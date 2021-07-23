@@ -19,6 +19,6 @@ class="submitBtn" />
 </form>
 </div>
 <div id="erreur">
-<p> Erreurs </p>
+<p> ${erreurs} </p>
 </div>
 <jsp:include page="footer.jsp"></jsp:include>
