@@ -3,7 +3,7 @@
 
 </div>
 <footer id="piedBlog">
-Blog réalisé parl'équipe de dingue TNF composé d'Eloïse, Isabelle, Adeline et Aurélien
+Blog réalisé par l'équipe de dingue TNF composé d'Eloïse, Isabelle, Adeline et Aurélien
 </footer>
 </body>
 </html>
